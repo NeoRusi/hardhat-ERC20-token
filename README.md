@@ -36,7 +36,7 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-defi-fcc
+git clone https://github.com/NeoRusi/hardhat-ERC20-token
 cd hardhat-defi-fcc
 yarn
 ```
@@ -115,3 +115,4 @@ yarn format
 # Thank you!
 
 If you appreciated this, feel free to follow me or donate!
+0x2835fbB0e84ff44F7e25b66202B73E57E427cC28
