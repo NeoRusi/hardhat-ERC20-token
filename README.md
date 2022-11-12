@@ -29,8 +29,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-erc20-fcc
-cd hardhat-erc20-fcc
+git clone https://github.com/NeoRusi/hardhat-ERC20-token
+cd hardhat-erc20
 yarn
 ```
 
